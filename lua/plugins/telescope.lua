@@ -8,6 +8,7 @@ local config = function()
 				i = {
 					["<C-j>"] = "move_selection_next",
 					["<C-k>"] = "move_selection_previous",
+					["<C-q>"] = "send_selected_to_qflist",
 				},
 			},
 		},
