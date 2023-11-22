@@ -43,6 +43,11 @@ return {
 		})
 	end,
 	dependencies = {
+		"hrsh7th/cmp-buffer", -- source for text in buffer
+		"hrsh7th/cmp-path", -- source for file system paths
+		"saadparwaiz1/cmp_luasnip", -- for autocompletion
+		"onsails/lspkind.nvim", -- vs-code like pictograms
+		"rafamadriz/friendly-snippets", -- useful snippets
 		"onsails/lspkind.nvim",
 		{
 

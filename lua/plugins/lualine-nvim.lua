@@ -1,5 +1,5 @@
 local config = function()
-	local theme = require("lualine.themes.nightfox")
+	local theme = require("lualine.themes.tokyonight")
 
 	-- set bg transparency in all modes
 	theme.normal.c.bg = nil
