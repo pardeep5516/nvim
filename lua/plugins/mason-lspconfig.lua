@@ -1,17 +1,8 @@
 local opts = {
 	ensure_installed = {
 		"efm",
-		-- "bashls",
-		-- "tsserver",
-		-- "solidity",
-		-- "tailwindcss",
-		-- "pyright",
-    -- "flake8",
-    -- "black",
 		"lua_ls",
-		-- "emmet_ls",
-		-- "jsonls",
-		-- "clangd",
+    "pyright",
 	},
 
 	automatic_installation = true,

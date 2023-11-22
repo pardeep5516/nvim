@@ -9,6 +9,8 @@ mapkey("<leader>`", "e #", "n") -- Switch to Other Buffer
 --Toggleterm
 mapkey("<leader>t", "ToggleTerm direction=float size=30<CR>", "n")
 
+--Alpha
+mapkey("<leader>h", "Alpha", "n")
 -- Directory Navigatio}n
 mapkey("<leader>m", "NvimTreeFocus", "n")
 mapkey("<leader>e", "NvimTreeToggle", "n")
