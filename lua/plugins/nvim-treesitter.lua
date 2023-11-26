@@ -12,8 +12,8 @@ local config = function()
 			"BufNewFile",
 		},
 		ensure_installed = {
-      "markdown",
-      "markdown_inline",
+      -- "markdown",
+      -- "markdown_inline",
 			"json",
 			"javascript",
 			-- "typescript",
